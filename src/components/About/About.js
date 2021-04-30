@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import { Link } from 'react-router-dom';
-import himangsu from '../../img/shrikanta-mazumder.jpg';
+import himangsu from '../../img/himangsu_with_laptop.jpg';
 
 const About = () => {
   return (
@@ -24,36 +24,36 @@ const About = () => {
         <div className="job job-1">
           <h3>Skills</h3>
           <p>
-            • <strong>Programming :</strong> Javascript, ES6, React, Redux, PHP, Laravel <br />
-          • <strong>Databases :</strong> MongoDB, Firebase, MySQL <br />
-          • <strong>Tools :</strong> Git, Webpack, VSCode, Chrome Dev Tool<br />
-          • <strong>OS :</strong> Windows, Linux
+            • <strong>Comfortable :</strong> JavaScript, ES6, React, Redux, React Router, HTML, CSS, Bootstrap <br />
+          • <strong>Familiar :</strong> PHP,Laravel,Wordpress,TypeScript, Node.js, Express.js, MongoDB, Material-UI, React Bootstrap, React Native,Java,C,C++ <br />
+          • <strong>Tools :</strong>Git,Linux,VSCode,Heroku,Netlify,Firebase,PhpStorm,AndroidStudio,Xampp,Eclipse,PyCharm,Anaconda<br />
+          • <strong>OS :</strong> Windows
         </p>
         </div>
 
         <div className="job job-2">
           <h3>Personal Info</h3>
           <p>
-            <strong>Name</strong>          :   Shrikanta Mazumder <br />
-            <strong>DoB</strong>           :   1st Jan 1997 <br />
+            <strong>Name</strong>          :   Himangsu Sarkar <br />
+            <strong>DoB</strong>           :   1st Aug 1997 <br />
             <strong>Nationality</strong>   :   Bangladeshi <br />
-            <strong>Blood Group</strong>   :   A+<br />
-            <strong>Religion</strong>      :   Sanatan <br />
-            <strong>NID</strong>           :   1461463893<br />
+            <strong>Blood Group</strong>   :   O+<br />
+            <strong>Religion</strong>      :   Hindu <br />
+            <strong>NID</strong>           :   <br />
           </p>
         </div>
 
         <div className="job job-3">
           <h3>Education</h3>
           <p>
-            <strong>Bachelor of Arts (Honours)</strong><br />
-            <strong>Institute:</strong>   National University <br />
-            <strong>Subject:</strong>     English Literature
-        </p>
+            <strong>Bachelor of computer science</strong><br />
+            <strong>Institute:</strong>   Changzhou institute of technology  <br />
+            <strong>Subject:</strong>      Computer science and information technology
+          </p>
         </div>
       </div>
       <div className="cv">
-        <Link target="_blank" to="https://drive.google.com/uc?export=download&id=1NkoFLWyDX_P25-_FtodtHyLG_ClUTqFP" className="glow-on-hover">Download CV</Link>
+        <Link target="_blank" to="https://drive.google.com/file/d/1l7Jy0-OJiW3V4G5bDjXby1wzOjmKcNuQ/view?usp=sharing" className="glow-on-hover">Download Resume</Link>
       </div>
     </main>
   );
