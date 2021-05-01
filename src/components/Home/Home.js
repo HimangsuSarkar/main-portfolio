@@ -24,9 +24,9 @@ const Home = () => {
         />
       </h2>
       <div className="icons">
-        <a target="_blank" href="">
+        {/* <a target="_blank" href="">
           <FontAwesomeIcon icon={faTwitter} size="2x" />
-        </a>
+        </a> */}
         <a target="_blank" href="https://www.facebook.com/himangsusarkar.himu.7">
           <FontAwesomeIcon icon={faFacebookSquare} size="2x" />
         </a>

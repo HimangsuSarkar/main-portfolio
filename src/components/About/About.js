@@ -17,7 +17,7 @@ const About = () => {
 
         <div className="bio">
           <p>
-            Passionate web app developer. Always try to grab the new features of technology. Last few years made myself skilled in the field of web application development. Acquired to maintain strong interpersonal relationships with teammates. I am passionate about providing care to my work, which keeps me motivated and excited about doing my best work
+            Passionate web developer. Always try to learn the new features of technology. Last few years made myself skilled in the field of web application development. I am passionate about providing care to my work, which keeps me motivated and excited about doing my best work.My hobby is coding.
         </p>
         </div>
 
