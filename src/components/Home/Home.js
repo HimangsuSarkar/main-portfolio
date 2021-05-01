@@ -27,13 +27,13 @@ const Home = () => {
         <a target="_blank" href="">
           <FontAwesomeIcon icon={faTwitter} size="2x" />
         </a>
-        <a target="_blank" href="">
+        <a target="_blank" href="https://www.facebook.com/himangsusarkar.himu.7">
           <FontAwesomeIcon icon={faFacebookSquare} size="2x" />
         </a>
-        <a target="_blank" href="">
+        <a target="_blank" href="https://www.linkedin.com/in/himangsusarkar/">
           <FontAwesomeIcon icon={faLinkedin} size="2x" />
         </a>
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/HimangsuSarkar">
           <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
       </div>
