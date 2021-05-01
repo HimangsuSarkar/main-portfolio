@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTwitter, faFacebookSquare, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookSquare, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import Typical from 'react-typical';
 
 const Home = () => {
