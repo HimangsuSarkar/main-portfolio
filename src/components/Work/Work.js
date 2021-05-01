@@ -20,35 +20,35 @@ const Work = () => {
     </h2>
       <div className="projects">
         <div className="item">
-          <a target="_blank" href="https://pensive-brattain-9c0ae5.netlify.app/">
+          <a target="" href="https://pensive-brattain-9c0ae5.netlify.app/">
             <img src={nomination} alt="Project" />
           </a>
-          <a target="_blank" href="https://pensive-brattain-9c0ae5.netlify.app/" className="btn-light">
+          <a target="" href="https://pensive-brattain-9c0ae5.netlify.app/" className="btn-light">
             <FontAwesomeIcon icon={faEye} /> Project
         </a>
-          <a target="_blank" href="https://github.com/HimangsuSarkar/nominate-team" className="btn-dark">
+          <a target="" href="https://github.com/HimangsuSarkar/nominate-team" className="btn-dark">
             <FontAwesomeIcon icon={faGithub} /> Github
         </a>
         </div>
         <div className="item">
-          <a target="_blank" href="https://brave-jepsen-9d2a6a.netlify.app/">
+          <a target="" href="https://brave-jepsen-9d2a6a.netlify.app/">
             <img src={taxiCap} alt="Project" />
           </a>
-          <a target="_blank" href="https://brave-jepsen-9d2a6a.netlify.app/" className="btn-light">
+          <a target="" href="https://brave-jepsen-9d2a6a.netlify.app/" className="btn-light">
             <FontAwesomeIcon icon={faEye} /> Project
         </a>
-          <a target="_blank" href="https://github.com/HimangsuSarkar/TaxiCap-rider" className="btn-dark">
+          <a target="" href="https://github.com/HimangsuSarkar/TaxiCap-rider" className="btn-dark">
             <FontAwesomeIcon icon={faGithub} /> Github
         </a>
         </div>
         <div className="item">
-          <a target="_blank" href="#!">
+          <a target="" href="#!">
             <img src={onlineTutor} alt="Project" />
           </a>
-          <a target="_blank" href="https://607be511e25202c6aad09def--frosty-spence-98998b.netlify.app/" className="btn-light">
+          <a target="" href="https://607be511e25202c6aad09def--frosty-spence-98998b.netlify.app/" className="btn-light">
             <FontAwesomeIcon icon={faEye} /> Project
         </a>
-          <a target="_blank" href="https://github.com/HimangsuSarkar/online-tutor" className="btn-dark">
+          <a target="" href="https://github.com/HimangsuSarkar/online-tutor" className="btn-dark">
             <FontAwesomeIcon icon={faGithub} /> Github
         </a>
         </div>
