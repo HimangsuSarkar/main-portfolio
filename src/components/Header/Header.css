@@ -70,11 +70,13 @@ header {
   transform: translate3d(0, 0, 0); 
 }
 .menu-branding .portrait {
-  width: 80%;
-  height: 80%;
+  width: 50%;
+  height:50%;
   background: url("../../img/himangsu_with_cup.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a; 
+  background-position: center;
+  background-size: cover;
 }
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);

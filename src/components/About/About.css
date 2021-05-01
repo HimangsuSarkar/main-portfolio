@@ -9,6 +9,8 @@
   .about-info .bio-image {
     grid-area: bioimage;
     width: 60%;
+    /* background-position: center;
+    background-size: cover; */
     margin: auto;
     border-radius: 50%;
     border: #eece1a 3px solid; }
