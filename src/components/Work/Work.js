@@ -48,7 +48,7 @@ const Work = () => {
           <a target="" href="https://607be511e25202c6aad09def--frosty-spence-98998b.netlify.app/" className="btn-light">
             <FontAwesomeIcon icon={faEye} /> Project
         </a>
-          <a target="" href="https://github.com/HimangsuSarkar/online-tutor" className="btn-dark">
+          <a target="_blank" rel="noreferrer" href="https://github.com/HimangsuSarkar/online-tutor" className="btn-dark">
             <FontAwesomeIcon icon={faGithub} /> Github
         </a>
         </div>
