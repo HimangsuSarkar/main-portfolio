@@ -53,7 +53,7 @@ const About = () => {
         </div>
       </div>
       <div className="cv">
-        <Link target="_blank" to="https://drive.google.com/file/d/1l7Jy0-OJiW3V4G5bDjXby1wzOjmKcNuQ/view?usp=sharing" className="glow-on-hover">Download Resume</Link>
+        <Link to="https://drive.google.com/file/d/1l7Jy0-OJiW3V4G5bDjXby1wzOjmKcNuQ/view?usp=sharing" download target="_self" className="glow-on-hover">Download Resume</Link>
       </div>
     </main>
   );
