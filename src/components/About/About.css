@@ -1,5 +1,6 @@
 #about {
   background-color: #444;
+  width: 100%;
 }
 .about-info {
   display: grid;
@@ -8,9 +9,9 @@
   grid-template-columns: repeat(3, 1fr); }
   .about-info .bio-image {
     grid-area: bioimage;
-    width: 60%;
-    /* background-position: center;
-    background-size: cover; */
+    width: 50%;
+    background-position: center;
+    background-size: cover;
     margin: auto;
     border-radius: 50%;
     border: #eece1a 3px solid; }
@@ -64,6 +65,11 @@
       margin-bottom: 1rem; }
   .about-info {
     grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
+    width: auto;
     grid-template-columns: 1fr; }
+    .about-info .bio {
+      grid-area: bio;
+      padding: 5%;
+      font-size: 1.5rem; }
   .projects {
-    grid-template-columns: repeat(2, 1fr); } }
+    grid-template-columns: repeat(1, 1fr); } }
