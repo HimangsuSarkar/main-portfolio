@@ -26,7 +26,7 @@ const About = () => {
           <p>
             • <strong>Comfortable :</strong> JavaScript, ES6, React, Redux, React Router, HTML, CSS, Bootstrap <br />
           • <strong>Familiar :</strong> PHP,Laravel,Wordpress,TypeScript, Node.js, Express.js, MongoDB, Material-UI, React Bootstrap, React Native,Java,C,C++ <br />
-          • <strong>Tools :</strong>Git,Linux,VSCode,Heroku,Netlify,Firebase,PhpStorm,AndroidStudio,Xampp,Eclipse,PyCharm,Anaconda<br />
+          • <strong>Tools :</strong>Linux,VSCode,Heroku,Netlify,Firebase,PhpStorm,AndroidStudio,Xampp<br />
           • <strong>OS :</strong> Windows
         </p>
         </div>
